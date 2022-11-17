@@ -1,0 +1,23 @@
+
+.attribution { 
+    font-size: 11px; text-align: center; 
+}
+.attribution a { 
+    color: hsl(228, 45%, 44%);
+}
+h1{
+    justify-content: center;
+}
+
+
+p{
+justify-content: center;
+}
+
+
+div.contenedor-ctq{
+    display: flex;
+    
+}
+
+
